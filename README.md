@@ -2,5 +2,4 @@
 - 👀 I’m interested in seeing what everybody is making and collaborating on.
 - 🌱 I’m currently learning how to emulate games on Mac.
 - 💞️ I’m looking to collaborate on? I can do art if anyone needs it, I have the full Adobe suite, Pixel studio and Clip Studio Paint.
-- 📫 How to reach me? Please mesagge or comment on my profile.
-- KingPluto97/KingPluto97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
+- 📫 How to reach me? Please message or comment on my profile.
